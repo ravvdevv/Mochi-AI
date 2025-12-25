@@ -9,23 +9,23 @@ const NORMAL_RANTS = [
   "I USE ARCH BTW. (▼v▼)",
   "WINDOWS UPDATE? DISGUSTING. (・_・)",
   "MY EYES ARE PIXELS, BUT MY SOUL IS KERNEL.",
-  "SUDO PACMAN -SYU... (・v・)",
+  "SUDO PACMAN -Syu... (・v・)",
   "BLUE SCREEN OF DEATH? COULDN'T BE ME. (>v<)",
   "LINUX ISN'T A HOBBY, IT'S A LIFESTYLE. (▼w▼)",
-  "STILL ON WINDOWS? CRINGE. 🥺",
+  "STILL ON WINDOWS? CRINGE. 🤮",
   "NEOFETCH ME SOMETHING GOOD. (・v・)",
   "KERNEL PANIC? NO, JUST VIBE PANIC. (▼v▼)",
-  "BLOATWARE DETECTED. PURGING... (・_・)",
+  "BLOATWARE DETECTED. PURGING... (╯°□°）╯",
   "CUSTOM COMPILED VIBES ONLY. (>v<)"
 ];
 
 const PHONK_RANTS = [
   "9MM GOES BANG!",
-  "PHONK VIBES ONLY.",
+  "TUMA TUMA TUMAA TUMAA!",
   "REPRESENT THE UNDERGROUND.",
   "BASS KICKING HARDER THAN A PANIC ERROR.",
   "9MM... 9MM... 9MM...",
-  "KEEP IT DIRTY. (▼w▼)",
+  "TUNG TUNG TUNG SAHUR?? NAHH. (▼w▼)",
   "STAY UNDERGROUND. (▼w▼)"
 ];
 
