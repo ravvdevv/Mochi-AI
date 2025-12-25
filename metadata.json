@@ -1,0 +1,8 @@
+
+{
+  "name": "Mochi AI Desktop Companion",
+  "description": "A minimalist, high-contrast animated face renderer inspired by Dasai Mochi, featuring real-time expressions",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
